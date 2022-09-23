@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Aboreto&display=swap");
+
+body {
+  height: 100vh;
+  background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.gfont-link {
+  font-family: "Alumni Sans Pinstripe", sans-serif;
+}
+
+.gfont-import {
+  font-family: "Aboreto", cursive;
+}
+
+.font-integrated {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.gfont-link,
+.gfont-import,
+.font-integrated {
+  background-color: rgba(255, 255, 255, 0.6);
+}

@@ -1,0 +1,40 @@
+Web Development Year Course
+
+1. Basic Digital Literacy
+2. UI Basics (User Interface)
+3. Programming Basics
+4. Single Page Application (React.js)
+5. Backend (Node.js, express, mongodb)
+6. Final Projekt
+
+7. Praktikum / Internship
+
+---
+
+Web site Building:
+https://reactjs.org/
+
+--
+
+(Not part of the year course but easy to learn after JS and React)
+Phone app building: react native.
+https://reactnative.dev/
+
+PC App building: electron.js
+https://www.electronjs.org/
+
+---
+
+Learning resources:
+
+https://www.udemy.com/de/
+
+https://www.codecademy.com/
+
+https://www.codewars.com/
+
+---
+
+Bookmark web dev resources:
+
+https://gael-src.github.io/bookmarks/index.html

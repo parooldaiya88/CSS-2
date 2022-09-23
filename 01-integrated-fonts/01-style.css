@@ -1,0 +1,24 @@
+body {
+  color: blue;
+  background-color: aquamarine;
+}
+.font-ex-01 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.font-ex-02 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.font-ex-03 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.font-ex-04 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.font-ex-05 {
+  font-family: fantasy;
+}

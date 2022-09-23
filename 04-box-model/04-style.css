@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+}
+
+/* BOX MODEL: */
+.box-model {
+  /* CONTENT: */
+  height: 200px;
+  width: 200px;
+
+  /* BORDER: */
+  border: 3px solid red;
+  /* border: 5px dashed red; */
+  /* border: 5px dotted red; */
+
+  /* PADDING: */
+  padding-top: 30px;
+  padding-right: 25px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  /* Shorhands: */
+  /* top, right, bottom, left: */
+  padding: 30px 25px 20px 15px;
+  /* top, right and left, bottom: */
+  padding: 30px 25px 20px;
+  /* top and bottom, right and left: */
+  padding: 30px 25px;
+  /* Every side have the same value: */
+  padding: 30px;
+
+  /* MARGIN: */
+  margin-top: 40px;
+  margin-right: 35px;
+  margin-bottom: 30px;
+  margin-left: 25px;
+  /* Shorhands: */
+  /* top, right, bottom, left: */
+  margin: 30px 25px 20px 15px;
+  /* top, right and left, bottom: */
+  margin: 30px 25px 20px;
+  /* top and bottom, right and left: */
+  margin: 30px 25px;
+  /* Every side have the same value: */
+  margin: 30px;
+
+  /* MARGIN AUTO TRICK */
+  /* Only works horizontally, not vetically: */
+  margin: 20px auto;
+}
